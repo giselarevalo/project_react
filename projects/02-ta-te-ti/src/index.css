@@ -88,10 +88,10 @@ body {
 
 .winner {
   position: absolute;
-  width: 100vw;
-  height: 100vh;
-  top: 0;
-  left: 0;
+  width: 10vw;
+  height: 10vh;
+  top: -90px;
+  left: -90px;
   display: grid;
   place-items: center;
   background-color: rgba(0, 0, 0, 0.7);
